@@ -18,5 +18,7 @@
 
 ## Run Locally
 `npm install`
+
 `npm install firebase`
+
 `npm start`
