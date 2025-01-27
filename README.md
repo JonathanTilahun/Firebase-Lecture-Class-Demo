@@ -1,12 +1,12 @@
-## Create the Project
+## Create the Firebase Project
 
 1. Go to [firebase.google.com](https://firebase.google.com)
 2. Click **"Get Started"**
-3. Click **Create Project**
+3. Click **"Get started with a Firebase project"**
 4. Name your project something like `firebase-practice`
-5. For the Configure Google Analytics part, select **"Default Account for Firebase"**
+5. Keep clicking continue until your project gets created
 
-## Create the Database
+## Create the Realtime Database
 
 6. Click **Build** on the side, then select **"Realtime Database"**
 7. Select **Create a database**
