@@ -46,9 +46,9 @@ function App() {
           Save a message
         </button>
 
-        <button onClick={handleEdit} style={{ padding: '8px 16px', marginLeft: '6px' }}>
+        {/* <button onClick={handleEdit} style={{ padding: '8px 16px', marginLeft: '6px' }}>
           Edit the last saved message
-        </button>
+        </button> */}
       </div>
     </div>
   );

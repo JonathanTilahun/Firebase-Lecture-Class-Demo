@@ -17,6 +17,8 @@
 12. Copy the `firebaseConfig` object and paste it into the `src/firebase.js` file locally. Just paste that object with the keys; don’t change anything else.
 
 ## Run Locally
+Run these in your terminal:
+
 `npm install`
 
 `npm install firebase`
